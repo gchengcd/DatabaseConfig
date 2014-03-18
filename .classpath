@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13"/>
+	<classpathentry exported="true" kind="lib" path="E:/ME/MYSQLUiForGlf/lib/datepicker.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/ME/MYSQLUiForGlf/lib/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,17 @@
+#Mon Mar 04 14:18:32 CST 2013
+eclipse.preferences.version=1
+encoding//src/com/glf/frame/DetermineFrame.java=UTF-8
+encoding//src/com/glf/glfconfig=UTF-8
+encoding//src/com/glf/glfconfig/AddCollect.java=UTF-8
+encoding//src/com/glf/glfconfig/AddRow.java=UTF-8
+encoding//src/com/glf/glfconfig/Create8View.java=UTF-8
+encoding//src/com/glf/glfconfig/CreateTable.java=UTF-8
+encoding//src/com/glf/glfconfig/DeleteCollect.java=UTF-8
+encoding//src/com/glf/glfconfig/DeleteRow.java=UTF-8
+encoding//src/com/glf/glfconfig/OutputTable.java=UTF-8
+encoding//src/com/glf/glfconfig/UpdateRow.java=UTF-8
+encoding//src/com/glf/uiforglf=UTF-8
+encoding//src/com/glf/uiforglf/GlfUi.java=UTF-8
+encoding//src/com/glf/uiforglf/JdbcUtils.java=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
